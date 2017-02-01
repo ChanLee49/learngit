@@ -1,1 +1,1 @@
-git is a vertion control system
+git is a ditribute vertion control system
